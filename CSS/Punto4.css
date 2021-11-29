@@ -1,0 +1,56 @@
+    #menu{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        background-color:blueviolet;
+    }
+    .menu{
+        padding: 7px;
+        color:black;
+    }
+    body{
+    margin: 0%;
+    background-color: rgb(202, 145, 255);
+    }
+    h1{
+        text-align: center;
+        color: black;
+    }
+    h2{
+        color: black;
+    }
+    h3{
+        color: black;
+    }
+    .Titulo{
+        display: flex;
+        flex-direction: row;
+        width: 50%;
+    }
+    .Icono{
+        width: 160px;
+    }
+    header{
+        border: solid 1px;
+    }
+    #Titulo{
+        width: 60%;
+        border-right: solid 1px;
+        border-bottom: solid 1px;
+    }
+    #Lado{
+        width: 40%;
+        border-bottom: solid 1px;
+    }
+    #Contenedor{
+        display: flex;
+        flex-direction: row;
+    }
+    .Icono2{
+        width: 100px;
+    }
+    .Lado{
+        display: flex;
+        flex-direction:  column;
+        align-items: center;
+    }
